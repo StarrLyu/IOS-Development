@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					D73443BD1E74216800D77829 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = B7GPK5BUTZ;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = B7GPK5BUTZ;
 				INFOPLIST_FILE = LovePoem/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = lyu.LovePoem;
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = B7GPK5BUTZ;
 				INFOPLIST_FILE = LovePoem/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = lyu.LovePoem;
@@ -297,6 +300,7 @@
 				D73443D21E74216800D77829 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
